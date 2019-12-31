@@ -28,12 +28,12 @@ I’ve been Demonstrator for the following courses at QMUL:
 Scholarships and Grants
 ---
 
-* 2019 CSS Scholarship for the Mediterranean School of Complex Networks, Salina, Fondazione Bruno Kessler.
-* 2019 yrCSS Travel Grant for the Complexity72h Workshop, IMT School for Advanced Studies Lucca.
-* 2017 Research Studentship Queen Mary Principal’s Award, QMUL.
-* 2016 Research Scholarship Technical Training Award, Sao Paulo Research Foundation (FAPESP).
-* 2016 Travel Grant for the Summer School on Understanding Urban Transformations thought Data, Manchester School of Architecture.
-* 2014 Research Studentship Coordenação de Aperfeicoamento de Pessoal de Nível Superior, CAPES.
+* 2019 CSS Scholarship for the Mediterranean School of Complex Networks, Salina, Fondazione Bruno Kessler.  
+* 2019 yrCSS Travel Grant for the Complexity72h Workshop, IMT School for Advanced Studies Lucca.  
+* 2017 Research Studentship Queen Mary Principal’s Award, QMUL.  
+* 2016 Research Scholarship Technical Training Award, Sao Paulo Research Foundation (FAPESP).  
+* 2016 Travel Grant for the Summer School on Understanding Urban Transformations thought Data, Manchester School of Architecture.  
+* 2014 Research Studentship Coordenação de Aperfeicoamento de Pessoal de Nível Superior, CAPES.  
 
 
 <br>
@@ -41,13 +41,13 @@ Scholarships and Grants
 Conferences, Schools and Workshops
 ---
 
-* Dec 2019 Alan Turing Institute Data Study Group
+* Dec 2019 Alan Turing Institute Data Study Group  
 London, UK.
-* Sep 2019 Mediterranean School of Complex Networks
+* Sep 2019 Mediterranean School of Complex Networks  
 Salina, IT.
-* Jul 2019 3rd UK Network Science Workshop
+* Jul 2019 3rd UK Network Science Workshop  
 Leeds, UK.
-* Jul 2019 International Workshop on Networks and Urban Systems, London, UK. Complexity72h Workshop
+* Jul 2019 International Workshop on Networks and Urban Systems, London, UK. Complexity72h Workshop  
 Lucca, IT.
 * Oct 2018 2nd Network Science Workshop  
 London, UK.
