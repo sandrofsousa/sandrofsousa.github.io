@@ -1,56 +1,41 @@
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
-    
-    <url>
-    
-      <loc>https://sandrofsousa.github.io/</loc>
-      <lastmod>2019-12-31T13:34:40+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://sandrofsousa.github.io/authors/admin/</loc>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://sandrofsousa.github.io/post/</loc>
-      <lastmod>2018-10-14T02:15:45+01:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://sandrofsousa.github.io/authors/</loc>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://sandrofsousa.github.io/publication/</loc>
-      <lastmod>2018-10-14T02:15:45+01:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://sandrofsousa.github.io/categories/</loc>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://sandrofsousa.github.io/talk/</loc>
-      <lastmod>2018-10-14T02:15:45+01:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://sandrofsousa.github.io/post/</loc>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://sandrofsousa.github.io/categories/</loc>
-    </url>
-    
+  <url>
+    <loc>https://sandrofsousa.github.io/publication_types/</loc>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://sandrofsousa.github.io/publication_types/</loc>
-    </url>
-    
+  <url>
+    <loc>https://sandrofsousa.github.io/publication/</loc>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://sandrofsousa.github.io/tags/</loc>
-    </url>
-    
+  <url>
+    <loc>https://sandrofsousa.github.io/talk/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sandrofsousa.github.io/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sandrofsousa.github.io/tags/</loc>
+  </url>
   
 </urlset>

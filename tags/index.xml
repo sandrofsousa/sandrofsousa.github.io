@@ -1,15 +1,16 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on </title>
+    <title>Tags | Sandro Sousa</title>
     <link>https://sandrofsousa.github.io/tags/</link>
-    <description>Recent content in Tags on </description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-uk</language>
-    <copyright>&amp;copy; 2019</copyright>
-    
-	<atom:link href="https://sandrofsousa.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://sandrofsousa.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tags</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>https://sandrofsousa.github.io/img/icon-192.png</url>
+      <title>Tags</title>
+      <link>https://sandrofsousa.github.io/tags/</link>
+    </image>
     
   </channel>
 </rss>

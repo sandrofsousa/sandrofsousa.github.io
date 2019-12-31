@@ -1,15 +1,16 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publication_types on </title>
+    <title>Publication_types | Sandro Sousa</title>
     <link>https://sandrofsousa.github.io/publication_types/</link>
-    <description>Recent content in Publication_types on </description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-uk</language>
-    <copyright>&amp;copy; 2019</copyright>
-    
-	<atom:link href="https://sandrofsousa.github.io/publication_types/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://sandrofsousa.github.io/publication_types/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publication_types</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>https://sandrofsousa.github.io/img/icon-192.png</url>
+      <title>Publication_types</title>
+      <link>https://sandrofsousa.github.io/publication_types/</link>
+    </image>
     
   </channel>
 </rss>
