@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Sandro Sousa
 
 # Username (this should match the folder name)
 authors:
@@ -10,33 +10,37 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: PhD Candidate in Mathematical Sciences
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: Queen Mary University of London
+  url: "https://www.qmul.ac.uk/maths"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include complex networks, urban systems and computational social science.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Complex Networks
+- Complex Systems
+- Science of Cities
+- Computational Social Science
+- Data Science
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - course: PhD Candidate in Mathematical Sciences
+    institution: Queen Mary University of London
+    year: 2021
+  - course: MSc in Complex Systems Modelling
+    institution: University of Sao Paulo
+    year: 2015
+  - course: PG Cert in Information Management and Business Intelligence
+    institution: Business School Sao Paulo
+    year: 2013
+  - course: BSc in Computer Network Management
+    institution: College Inforium of Technology
     year: 2008
-
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
@@ -47,18 +51,20 @@ social:
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/sandrofsousa
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?hl=en&user=38s9SVgAAAAJ
+- icon: arxiv
+  icon_pack: ai
+  link: https://arxiv.org/a/ferreirasousa_s_1.html
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+  link: https://github.com/sandrofsousa
+- icon: cv
+  icon_pack: ai
+  link: files/cv_ssousa.pdf
+
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -66,10 +72,11 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
-- Visitors
+- Complex Systems group
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Sandro Sousa is computer scientist interested in emergent phenomena in complex systems, networks, segregation dynamics, urban transportation as well as a graph and data driven quantification of these phenomena.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Currently, he is a PhD Candidate in Mathematical Sciences at [Queen Mary University of London](https://www.qmul.ac.uk/maths/ "School of Mathematical Sciences") with supervision by [Vincenzo Nicosia](http://www.maths.qmul.ac.uk/~vnicosia). His research lies on quantifying the heterogeneity of spatially-embedded systems through random walks on graphs with particular interest on socio-economic segregation.
+
+Previously he had worked as a research associate on a project between Brazilian and British academics entitled [RESOLUTION](https://www.urbantransformations.ox.ac.uk/project/resolution-resilient-systems-for-land-use-transportation/ "REsilient Systems fOr Land Use TransportatION") where the cities of London and São Paulo were compared in respect to social segregation and transport accessibility. His MSc involved the use of a graph-based approach to quantify the topology changes of Sao Paulo’s public transport network over different spatial scales while tested the robustness of the system over simulated attacks. Before joining the research career, he had completed a postgraduate course in Business intelligence and had worked in the Information Technology field for more than 7 years.
