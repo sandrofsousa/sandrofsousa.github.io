@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Homes on </title>
@@ -27,7 +27,7 @@
       <pubDate>Sun, 15 Oct 2017 00:00:00 +0100</pubDate>
       
       <guid>https://sandrofsousa.github.io/home/hero/</guid>
-      <description>The highly flexible website framework for Hugo with an extensible plugin mechanism. Create a beautifully simple site in under 10 minutes 🚀 Latest release   Star</description>
+      <description>The highly flexible website framework for Hugo with an extensible plugin mechanism. Create a beautifully simple site in under 10 minutes 🚀</description>
     </item>
     
     <item>
@@ -37,7 +37,7 @@
       
       <guid>https://sandrofsousa.github.io/home/about/</guid>
       <description>Biography I am computer scientist interested in emergent phenomena in complex systems, networks, segregation dynamics, urban transportation as well as a graph and data driven quantification of these phenomena.
-I&amp;rsquo;m currently doing a PhD in Mathematical Sciences at Queen Mary University of London with supervision by Vincenzo Nicosia. My research lies on quantifying the heterogeneity of spatially-embedded systems with particular interest on socio-economic segregation.
+I&#39;m currently a PhD Candidate in Mathematical Sciences at Queen Mary University of London with supervision by Vincenzo Nicosia. My research lies on quantifying the heterogeneity of spatially-embedded systems through random walks on graphs with particular interest on socio-economic segregation.
 Previously I worked as a research associate on a project between Brazilian and British academics entitled RESOLUTION where the cities of London and São Paulo were compared in respect to social segregation and transport accessibility.</description>
     </item>
     
@@ -129,8 +129,7 @@ Previously I worked as a research associate on a project between Brazilian and B
       
       <guid>https://sandrofsousa.github.io/home/activities/</guid>
       <description>Teaching I’ve been Demonstrator for the following courses at QMUL:
- 2018-2019 Probability and Statistics I (MTH4116/MTH4216). 2019 Introduction to Computer Programming (MTH5001).  
-Scholarships and Grants  2017 Research Studentship Queen Mary Principal’s Award, QMUL. 2016 Research Scholarship Technical Training Award, Sao Paulo Research Foundation (FAPESP). 2016 Travel Grant for the Summer School on Understanding Urban Transformations thought Data, Manchester School of Architecture. 2014 Research Studentship Coordenação de Aperfeicoamento de Pessoal de Nível Superior, CAPES.</description>
+ 2018-2019 Probability and Statistics I (MTH4116/MTH4216). 2019 Introduction to Computer Programming (MTH5001).  </description>
     </item>
     
     <item>
