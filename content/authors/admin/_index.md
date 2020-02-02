@@ -22,7 +22,7 @@ bio: My research interests include complex networks, urban systems and computati
 
 interests:
 - Complex Networks
-- Complex Systems
+- Spatial Complexity
 - Science of Cities
 - Computational Social Science
 - Data Science

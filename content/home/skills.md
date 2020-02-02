@@ -20,6 +20,11 @@ subtitle = ""
   name = "Python"
 
 [[feature]]
+  icon = "git-alt"
+  icon_pack = "fab"
+  name = "Git"
+
+[[feature]]
   icon = "chart-line"
   icon_pack = "fas"
   name = "Data Science"
@@ -28,5 +33,15 @@ subtitle = ""
   icon = "map-marked-alt"
   icon_pack = "fas"
   name = "GIS"
+
+[[feature]]
+  icon = "draw-polygon"
+  icon_pack = "fas"
+  name = "Networks"
+
+[[feature]]
+  icon = "terminal"
+  icon_pack = "fas"
+  name = "IT Consulting"
 
 +++
