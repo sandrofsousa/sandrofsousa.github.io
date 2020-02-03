@@ -20,9 +20,9 @@ subtitle = ""
   name = "Python"
 
 [[feature]]
-  icon = "git-alt"
+  icon = "github"
   icon_pack = "fab"
-  name = "Git"
+  name = "Github"
 
 [[feature]]
   icon = "chart-line"
