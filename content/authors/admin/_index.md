@@ -19,7 +19,7 @@ organizations:
   url: "https://www.qmul.ac.uk/maths"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include complex networks, urban systems and computational social science.
+bio: Network Scientist, building data-drive models for urban systems and population dynamics.
 
 interests:
 - Complex Networks
@@ -76,8 +76,8 @@ user_groups:
 - Complex Systems group
 ---
 
-Sandro Sousa is computer scientist interested in emergent phenomena in complex systems, networks, segregation dynamics, urban transportation as well as a graph and data driven quantification of these phenomena.
+Sandro Sousa is computer scientist interested in emergent phenomena in complex systems, spatial networks, population dynamics, segregation and mobility as well as a graph and data driven quantification of these phenomena.
 
-Currently, he is a PhD Candidate in Complex Systems at School of Mathematical Sciences, [Queen Mary University of London](https://www.qmul.ac.uk/maths/ "School of Mathematical Sciences"), with supervision by [Vincenzo Nicosia](http://www.maths.qmul.ac.uk/~vnicosia). His research lies on quantifying the heterogeneity of spatially-embedded systems through random walks on graphs with particular interest on socio-economic segregation.
+Currently, he is a PhD Candidate in Complex Systems at School of Mathematical Sciences, [Queen Mary University of London](https://www.qmul.ac.uk/maths/ "School of Mathematical Sciences"), with supervision by [Vincenzo Nicosia](http://www.maths.qmul.ac.uk/~vnicosia). His research lies on quantifying the heterogeneity of spatially-embedded systems through random walks on graphs with particular interest on urban segregation.
 
 Previously he had worked as a research associate on a project between Brazilian and British academics entitled [RESOLUTION](https://www.urbantransformations.ox.ac.uk/project/resolution-resilient-systems-for-land-use-transportation/ "REsilient Systems fOr Land Use TransportatION") where the cities of London and São Paulo were compared in respect to social segregation and transport accessibility. His MSc involved the use of a graph-based approach to quantify the topology changes of Sao Paulo’s public transport network over different spatial scales while tested the robustness of the system over simulated attacks. Before joining the research career, he had completed a postgraduate course in Business intelligence and had worked in the Information Technology field for more than 7 years.

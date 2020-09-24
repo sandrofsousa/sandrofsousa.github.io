@@ -11,7 +11,7 @@ title = "Academic Activities"
 subtitle = ""
 
 # Order that this section will appear in.
-weight = 60
+weight = 70
 
 +++
 
@@ -43,8 +43,8 @@ Scholarships and Grants
 
 Conferences, Schools and Workshops
 ---
-* Apr 2020 International Conference on Complex Networks (CompleNet)  
-Exeter, UK. Poster: <font color="deepskyblue">The emergence of segregation driven by mobility and homophily.</font>
+* Sep 2020 International School and Conference on Network Science (NetSci)  
+Rome, IT (Online).
 * Dec 2019 Alan Turing Institute Data Study Group  
 London, UK. Data challenge: <font color="deepskyblue">The National Archives.</font>
 * Sep 2019 Mediterranean School of Complex Networks  
