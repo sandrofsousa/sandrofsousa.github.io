@@ -5,12 +5,36 @@
     <link>https://sandrofsousa.github.io/</link>
       <atom:link href="https://sandrofsousa.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Sandro Sousa</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 20 Jul 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://sandrofsousa.github.io/img/icon-192.png</url>
+      <url>https://sandrofsousa.github.io/images/icon_hu8d3210db04ff863c40dc39b337a79cf2_27078_512x512_fill_lanczos_center_2.png</url>
       <title>Sandro Sousa</title>
       <link>https://sandrofsousa.github.io/</link>
     </image>
+    
+    <item>
+      <title>Disproportionate incidence of COVID-19 in African Americans correlates with dynamic segregation</title>
+      <link>https://sandrofsousa.github.io/publication/jrsinterface/</link>
+      <pubDate>Mon, 20 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://sandrofsousa.github.io/publication/jrsinterface/</guid>
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>QGIS Segreg</title>
+      <link>https://sandrofsousa.github.io/project/segreg/</link>
+      <pubDate>Mon, 27 Mar 2017 00:00:00 +0000</pubDate>
+      <guid>https://sandrofsousa.github.io/project/segreg/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
