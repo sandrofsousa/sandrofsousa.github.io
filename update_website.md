@@ -10,6 +10,13 @@
 - build again clean
 - Test if all ok
 
+# At root path
+- cd public
+- git add .
+- git commit -m "msg" and push
+
+# At public
+- git submodule update --init --recursive
 - cd public
 - git add .
 - git commit -m "msg"
