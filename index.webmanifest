@@ -1,0 +1,18 @@
+{
+  "name": "Sandro Sousa",
+  "short_name": "Sandro Sousa",
+  "lang": "en-us",
+  "theme_color": "#2962ff",
+  "background_color": "#2962ff",
+  "icons": [{
+    "src": "/images/icon_hu8d3210db04ff863c40dc39b337a79cf2_27078_192x192_fill_lanczos_center_2.png",
+    "sizes": "192x192",
+    "type": "image/png"
+    }, {
+    "src": "/images/icon_hu8d3210db04ff863c40dc39b337a79cf2_27078_512x512_fill_lanczos_center_2.png",
+    "sizes": "512x512",
+    "type": "image/png"
+     }],
+  "display": "standalone",
+  "start_url": "/?utm_source=web_app_manifest"
+}
