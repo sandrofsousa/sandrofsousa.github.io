@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>3 | Sandro Sousa</title>
-    <link>https://www.sandrosousa.com/publication-type/3/</link>
-      <atom:link href="https://www.sandrosousa.com/publication-type/3/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://sandrofsousa.github.io/publication-type/3/</link>
+      <atom:link href="https://sandrofsousa.github.io/publication-type/3/index.xml" rel="self" type="application/rss+xml" />
     <description>3</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 20 Oct 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://www.sandrosousa.com/images/icon_hu8d3210db04ff863c40dc39b337a79cf2_27078_512x512_fill_lanczos_center_2.png</url>
+      <url>https://sandrofsousa.github.io/images/icon_hu8d3210db04ff863c40dc39b337a79cf2_27078_512x512_fill_lanczos_center_2.png</url>
       <title>3</title>
-      <link>https://www.sandrosousa.com/publication-type/3/</link>
+      <link>https://sandrofsousa.github.io/publication-type/3/</link>
     </image>
     
     <item>
       <title>Quantifying ethnic segregation in cities through random walks</title>
-      <link>https://www.sandrosousa.com/publication/natcomm/</link>
+      <link>https://sandrofsousa.github.io/publication/natcomm/</link>
       <pubDate>Tue, 20 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>https://www.sandrosousa.com/publication/natcomm/</guid>
+      <guid>https://sandrofsousa.github.io/publication/natcomm/</guid>
       <description></description>
     </item>
     

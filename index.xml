@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sandro Sousa</title>
-    <link>https://www.sandrosousa.com/</link>
-      <atom:link href="https://www.sandrosousa.com/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://sandrofsousa.github.io/</link>
+      <atom:link href="https://sandrofsousa.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Sandro Sousa</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 27 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://www.sandrosousa.com/images/icon_hu8d3210db04ff863c40dc39b337a79cf2_27078_512x512_fill_lanczos_center_2.png</url>
+      <url>https://sandrofsousa.github.io/images/icon_hu8d3210db04ff863c40dc39b337a79cf2_27078_512x512_fill_lanczos_center_2.png</url>
       <title>Sandro Sousa</title>
-      <link>https://www.sandrosousa.com/</link>
+      <link>https://sandrofsousa.github.io/</link>
     </image>
     
     <item>
       <title>Disproportionate incidence of COVID-19 in African Americans correlates with dynamic segregation</title>
-      <link>https://www.sandrosousa.com/publication/jrsinterface/</link>
+      <link>https://sandrofsousa.github.io/publication/jrsinterface/</link>
       <pubDate>Wed, 27 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://www.sandrosousa.com/publication/jrsinterface/</guid>
+      <guid>https://sandrofsousa.github.io/publication/jrsinterface/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Quantifying ethnic segregation in cities through random walks</title>
-      <link>https://www.sandrosousa.com/publication/natcomm/</link>
+      <link>https://sandrofsousa.github.io/publication/natcomm/</link>
       <pubDate>Tue, 20 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>https://www.sandrosousa.com/publication/natcomm/</guid>
+      <guid>https://sandrofsousa.github.io/publication/natcomm/</guid>
       <description></description>
     </item>
     
     <item>
       <title>QGIS Segreg</title>
-      <link>https://www.sandrosousa.com/project/segreg/</link>
+      <link>https://sandrofsousa.github.io/project/segreg/</link>
       <pubDate>Mon, 27 Mar 2017 00:00:00 +0000</pubDate>
-      <guid>https://www.sandrosousa.com/project/segreg/</guid>
+      <guid>https://sandrofsousa.github.io/project/segreg/</guid>
       <description></description>
     </item>
     
