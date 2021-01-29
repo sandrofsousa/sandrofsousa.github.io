@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories | Sandro Sousa</title>
-    <link>https://sandrosousa.com/categories/</link>
-      <atom:link href="https://sandrosousa.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.sandrosousa.com/categories/</link>
+      <atom:link href="https://www.sandrosousa.com/categories/index.xml" rel="self" type="application/rss+xml" />
     <description>Categories</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
     <image>
-      <url>https://sandrosousa.com/images/icon_hu8d3210db04ff863c40dc39b337a79cf2_27078_512x512_fill_lanczos_center_2.png</url>
+      <url>https://www.sandrosousa.com/images/icon_hu8d3210db04ff863c40dc39b337a79cf2_27078_512x512_fill_lanczos_center_2.png</url>
       <title>Categories</title>
-      <link>https://sandrosousa.com/categories/</link>
+      <link>https://www.sandrosousa.com/categories/</link>
     </image>
     
   </channel>

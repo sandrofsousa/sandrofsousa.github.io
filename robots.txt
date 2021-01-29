@@ -1,3 +1,3 @@
 User-agent: *
 
-Sitemap: https://sandrosousa.com/sitemap.xml
+Sitemap: https://www.sandrosousa.com/sitemap.xml
