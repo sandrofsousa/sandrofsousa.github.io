@@ -15,21 +15,11 @@ weight = 70
 
 +++
 
-Teaching
----
-<font face="arial" size=3>
-
-I’ve been Demonstrator for the following courses at QMUL:
-
-<!-- <font color="deepskyblue"> </font> -->
-
-* 2019 - 2020 Introduction to Computer Programming in Python (MTH5001).  
-* 2018 - 2019 Probability and Statistics I (MTH4116/MTH4216).  
-
-<br>
 
 Scholarships and Grants
 ---
+<font face="arial" size=3>
+
 
 * 2019 CSS Scholarship for the Mediterranean School of Complex Networks, Salina, Fondazione Bruno Kessler.  
 * 2019 yrCSS Travel Grant for the Complexity72h Workshop, IMT School for Advanced Studies Lucca.  
@@ -43,8 +33,12 @@ Scholarships and Grants
 
 Conferences, Schools and Workshops
 ---
+* Dec 2020 Conference on Complex Systems  
+e-Conference, GR. Talk: <font color="deepskyblue">The emergence of segregation driven by mobility and homophily.</font>
+* Oct 2020 Fifth symposium on spatial networks (SSN5)  
+e-Conference, UK.
 * Sep 2020 International School and Conference on Network Science (NetSci)  
-Rome, IT (Online).
+e-Conference, IT.
 * Dec 2019 Alan Turing Institute Data Study Group  
 London, UK. Data challenge: <font color="deepskyblue">The National Archives.</font>
 * Sep 2019 Mediterranean School of Complex Networks  
@@ -77,3 +71,12 @@ Sao Paulo, BR.
 e-Conference. Talk: <font color="deepskyblue">Empirical analysis and modeling of urban public transport network of Sao Paulo.</font>
 * Sep 2015 School on Complex Networks and Applications to Neuroscience  
 Sao Paulo, BR.
+
+<br>
+
+Teaching
+---
+I’ve been Demonstrator for the following courses at QMUL:
+
+* 2019 - 2021 Introduction to Computer Programming in Python (MTH5001).  
+* 2018 - 2019 Probability and Statistics I (MTH4116/MTH4216).
