@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/ssousa
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://sandrosousa.com
+  * I am ssousa (https://keybase.io/ssousa) on keybase.
+  * I have a public key ASAxfcsePjODEBYRlyz1ONutn5fhnqYz1Z5wHk5T6MgQ2go
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120317dcb1e3e3383101611972cf538dbad9f97e19ea633d59e701e4e53e8c810da0a",
+      "host": "keybase.io",
+      "kid": "0120317dcb1e3e3383101611972cf538dbad9f97e19ea633d59e701e4e53e8c810da0a",
+      "uid": "278d9819bf75548487d88e3cda1d5319",
+      "username": "ssousa"
+    },
+    "merkle_root": {
+      "ctime": 1612024204,
+      "hash": "69a451f01a6ede198a61d73496b2727981572f4f8c8f720c45554e319373f7eb1ea3e45305b5c7677f9a0a87d904593fd96da58136792c13ae20fb83277a0f3f",
+      "hash_meta": "3ec0fde5ec7a236dd8e689176e32f3f01eca729a8faf693006cdc794be39bc7e",
+      "seqno": 18957483
+    },
+    "service": {
+      "entropy": "ENif0Fe8XQhNLXZMe+ag3RbF",
+      "hostname": "sandrosousa.com",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.6.0"
+  },
+  "ctime": 1612024280,
+  "expire_in": 504576000,
+  "prev": "03e7335fccd612eee581e0a19aed9cef8bae9af6d11b5601db58baf905cbd6bf",
+  "seqno": 8,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgMX3LHj4zgxAWEZcs9TjbrZ+X4Z6mM9WecB5OU+jIENoKp3BheWxvYWTESpcCCMQgA+czX8zWEu7lgeChmu2c74uumvbRG1YB21i6+QXL1r/EIKcDNpzJsBC4VLtionAGE0SBpWQtsTBKqRCfTFOD0O9aAgHCo3NpZ8RAwxkbyAbvnyF1BwhgiBDAk/OE24VUg219LRjtsGlNsOj5ytdtY7OCMvh46gI9kwFwRCu7PyXkmV3+bH95zSHfBKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIAALepWyikS9FOn6rjVLSOPMzuW9mA4/ujjXzBgmx9h7o3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/ssousa
+
+==================================================================
