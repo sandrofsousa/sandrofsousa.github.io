@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>COVID-19 | Sandro Sousa</title>
-    <link>https://sandrofsousa.github.io/tag/covid-19/</link>
-      <atom:link href="https://sandrofsousa.github.io/tag/covid-19/index.xml" rel="self" type="application/rss+xml" />
-    <description>COVID-19</description>
+    <title>Andrea Santoro | Sandro Sousa</title>
+    <link>https://sandrofsousa.github.io/author/andrea-santoro/</link>
+      <atom:link href="https://sandrofsousa.github.io/author/andrea-santoro/index.xml" rel="self" type="application/rss+xml" />
+    <description>Andrea Santoro</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 25 Feb 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://sandrofsousa.github.io/images/icon_hu8d3210db04ff863c40dc39b337a79cf2_27078_512x512_fill_lanczos_center_2.png</url>
-      <title>COVID-19</title>
-      <link>https://sandrofsousa.github.io/tag/covid-19/</link>
+      <title>Andrea Santoro</title>
+      <link>https://sandrofsousa.github.io/author/andrea-santoro/</link>
     </image>
     
     <item>
@@ -17,14 +17,6 @@
       <link>https://sandrofsousa.github.io/publication/pnas/</link>
       <pubDate>Thu, 25 Feb 2021 00:00:00 +0000</pubDate>
       <guid>https://sandrofsousa.github.io/publication/pnas/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Disproportionate incidence of COVID-19 in African Americans correlates with dynamic segregation</title>
-      <link>https://sandrofsousa.github.io/publication/jrsinterface/</link>
-      <pubDate>Wed, 27 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://sandrofsousa.github.io/publication/jrsinterface/</guid>
       <description></description>
     </item>
     

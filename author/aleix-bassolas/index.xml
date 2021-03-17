@@ -5,12 +5,20 @@
     <link>https://sandrofsousa.github.io/author/aleix-bassolas/</link>
       <atom:link href="https://sandrofsousa.github.io/author/aleix-bassolas/index.xml" rel="self" type="application/rss+xml" />
     <description>Aleix Bassolas</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 27 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 25 Feb 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://sandrofsousa.github.io/images/icon_hu8d3210db04ff863c40dc39b337a79cf2_27078_512x512_fill_lanczos_center_2.png</url>
       <title>Aleix Bassolas</title>
       <link>https://sandrofsousa.github.io/author/aleix-bassolas/</link>
     </image>
+    
+    <item>
+      <title>Optimising the mitigation of epidemic spreading through targeted adoption of contact tracing apps</title>
+      <link>https://sandrofsousa.github.io/publication/pnas/</link>
+      <pubDate>Thu, 25 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://sandrofsousa.github.io/publication/pnas/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Disproportionate incidence of COVID-19 in African Americans correlates with dynamic segregation</title>
