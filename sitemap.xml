@@ -1,208 +1,126 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://sandrofsousa.github.io/publication-type/2/</loc>
     <lastmod>2023-03-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sandrofsousa.github.io/tag/agent-based-modeling/</loc>
     <lastmod>2023-03-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sandrofsousa.github.io/author/aleix-bassolas/</loc>
     <lastmod>2023-03-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sandrofsousa.github.io/author/ann-marie-baker/</loc>
     <lastmod>2023-03-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sandrofsousa.github.io/authors/</loc>
     <lastmod>2023-03-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sandrofsousa.github.io/tag/cancers-and-neoplasms/</loc>
     <lastmod>2023-03-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sandrofsousa.github.io/tag/colorectal-cancer/</loc>
     <lastmod>2023-03-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sandrofsousa.github.io/tag/diffusion-on-networks/</loc>
     <lastmod>2023-03-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sandrofsousa.github.io/publication/ploscbio/</loc>
     <lastmod>2023-03-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sandrofsousa.github.io/author/magnus-j.-haughey/</loc>
     <lastmod>2023-03-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sandrofsousa.github.io/publication_types/</loc>
     <lastmod>2023-03-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sandrofsousa.github.io/publication/</loc>
     <lastmod>2023-03-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sandrofsousa.github.io/tag/random-walks/</loc>
     <lastmod>2023-03-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sandrofsousa.github.io/author/sandro-sousa/</loc>
     <lastmod>2023-03-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sandrofsousa.github.io/</loc>
     <lastmod>2023-03-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sandrofsousa.github.io/tags/</loc>
     <lastmod>2023-03-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sandrofsousa.github.io/author/trevor-a.-graham/</loc>
     <lastmod>2023-03-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sandrofsousa.github.io/author/vincenzo-nicosia/</loc>
     <lastmod>2023-03-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sandrofsousa.github.io/author/weini-huang/</loc>
     <lastmod>2023-03-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sandrofsousa.github.io/tag/ethnic-segregation/</loc>
     <lastmod>2022-10-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sandrofsousa.github.io/tag/networks/</loc>
     <lastmod>2022-10-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sandrofsousa.github.io/publication/natcomm/</loc>
     <lastmod>2022-10-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sandrofsousa.github.io/tag/spatial-complexity/</loc>
     <lastmod>2022-10-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sandrofsousa.github.io/author/andrea-santoro/</loc>
     <lastmod>2022-05-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sandrofsousa.github.io/tag/contact-tracing/</loc>
     <lastmod>2022-05-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sandrofsousa.github.io/tag/covid-19/</loc>
     <lastmod>2022-05-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sandrofsousa.github.io/tag/dynamics-on-networks/</loc>
     <lastmod>2022-05-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sandrofsousa.github.io/tag/epidemic-spreading/</loc>
     <lastmod>2022-05-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sandrofsousa.github.io/tag/optimal-mitigation/</loc>
     <lastmod>2022-05-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sandrofsousa.github.io/publication/prr/</loc>
     <lastmod>2022-05-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sandrofsousa.github.io/author/silvia-rognone/</loc>
     <lastmod>2022-05-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sandrofsousa.github.io/tag/sir/</loc>
     <lastmod>2022-05-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sandrofsousa.github.io/publication/jrsinterface/</loc>
     <lastmod>2021-01-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sandrofsousa.github.io/tag/human-mobility/</loc>
     <lastmod>2021-01-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sandrofsousa.github.io/tag/urban-systems/</loc>
     <lastmod>2021-01-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sandrofsousa.github.io/project/</loc>
     <lastmod>2017-03-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sandrofsousa.github.io/tag/qgis/</loc>
     <lastmod>2017-03-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sandrofsousa.github.io/project/segreg/</loc>
     <lastmod>2017-03-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sandrofsousa.github.io/tag/segregation/</loc>
     <lastmod>2017-03-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sandrofsousa.github.io/categories/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sandrofsousa.github.io/author/sandro-sousa/</loc>
   </url>
-  
 </urlset>
