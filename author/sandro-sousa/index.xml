@@ -5,12 +5,44 @@
     <link>https://sandrofsousa.github.io/author/sandro-sousa/</link>
       <atom:link href="https://sandrofsousa.github.io/author/sandro-sousa/index.xml" rel="self" type="application/rss+xml" />
     <description>Sandro Sousa</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 13 Mar 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://sandrofsousa.github.io/author/sandro-sousa/avatar_hu15a1f6a09f58f6adb4373afe6abaf47b_311377_270x270_fill_q75_lanczos_center.jpg</url>
+      <url>https://sandrofsousa.github.io/images/icon_hu8d3210db04ff863c40dc39b337a79cf2_27078_512x512_fill_lanczos_center_3.png</url>
       <title>Sandro Sousa</title>
       <link>https://sandrofsousa.github.io/author/sandro-sousa/</link>
     </image>
+    
+    <item>
+      <title>First passage time analysis of spatial mutation patterns reveals evolutionary dynamics of pre-existing resistance in colorectal cancer</title>
+      <link>https://sandrofsousa.github.io/publication/ploscbio/</link>
+      <pubDate>Mon, 13 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://sandrofsousa.github.io/publication/ploscbio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quantifying ethnic segregation in cities through random walks</title>
+      <link>https://sandrofsousa.github.io/publication/natcomm/</link>
+      <pubDate>Mon, 03 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://sandrofsousa.github.io/publication/natcomm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimising the mitigation of epidemic spreading through targeted adoption of contact tracing apps</title>
+      <link>https://sandrofsousa.github.io/publication/prr/</link>
+      <pubDate>Mon, 02 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://sandrofsousa.github.io/publication/prr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Disproportionate incidence of COVID-19 in African Americans correlates with dynamic segregation</title>
+      <link>https://sandrofsousa.github.io/publication/jrsinterface/</link>
+      <pubDate>Wed, 27 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://sandrofsousa.github.io/publication/jrsinterface/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
