@@ -1,0 +1,70 @@
+---
+title: "Research"
+toc: true
+---
+
+## Working Papers
+
+:::{.pub-card}
+**Walking Through Complex Spatial Patterns of Climate and Conflict-Induced Displacements.**
+David Carranza, Devansh Sharma, Francisco Malveiro, Gustavo Kohlrausch, Jisha Mariyam John, Kaloyan Danovski, Malvina Bozhidarova, Rui Zheng, **Sandro Sousa** — *arXiv*, 2025
+[Preprint](
+https://doi.org/10.48550/arXiv.2506.22120) | [PDF](https://arxiv.org/pdf/2506.22120)
+:::
+
+---
+
+## Publications
+
+:::{.pub-card}
+**Early career wins and tournament prestige characterize tennis players’ trajectories.**
+Chiara Zappalà, **Sandro Sousa**, Tiago Cunha, Alessandro Pluchino, Andrea Rapisarda and Roberta Sinatra — *EPJ Data Science*, 2024
+[Journal](https://doi.org/10.1140/epjds/s13688-024-00472-3) | [PDF](https://link.springer.com/content/pdf/10.1140/epjds/s13688-024-00472-3.pdf)
+:::
+
+:::{.pub-card}
+**First passage time analysis of spatial mutation patterns reveals evolutionary dynamics of pre-existing resistance in colorectal cancer.**
+M.J. Haughey, A. Bassolas, **S. Sousa**, A.-M. Baker, T.A. Graham, V. Nicosia, W. Huang — *PLOS Comp. Biol.*, 2023
+[Journal](https://doi.org/10.1371/journal.pcbi.1010952) | [PDF](https://journals.plos.org/ploscompbiol/article/file?id=10.1371/journal.pcbi.1010952&type=printable)
+:::
+
+:::{.pub-card}
+**Quantifying ethnic segregation in cities through random walks.**
+**S. Sousa**, V. Nicosia — *Nature Communications*, 2022
+[Journal](https://doi.org/10.1038/s41467-022-33344-3) | [PDF](https://www.nature.com/articles/s41467-022-33344-3.pdf) | [Code](https://github.com/segregation-rw/ethnic-segregation-rw) | [Data](https://doi.org/10.5281/zenodo.6874241)
+:::
+
+:::{.pub-card}
+**Optimising the mitigation of epidemic spreading through targeted adoption of contact tracing apps.**
+A. Bassolas, A. Santoro, **S. Sousa**, S. Rognone, V. Nicosia — *Phys. Rev. Research*, 2022
+[Journal](https://doi.org/10.1103/physrevresearch.4.023092) | [PDF](https://arxiv.org/pdf/2102.13013.pdf)
+:::
+
+:::{.pub-card}
+**Disproportionate incidence of COVID-19 in African Americans correlates with dynamic segregation.**
+A. Bassolas, **S. Sousa**, V. Nicosia — *J. R. Soc. Interface*, 2021
+[Journal](https://doi.org/10.1098/rsif.2020.0961) | [PDF](https://royalsocietypublishing.org/doi/epdf/10.1098/rsif.2020.0961) | [Code](https://mygit.katolaz.net/covid_19_ethnicity/rw-segregation) | [Data](https://datadryad.org/stash/dataset/doi:10.5061/dryad.hqbzkh1f9)
+:::
+
+---
+
+## White papers
+:::{.pub-card}
+**Data study group final report: The national archives, UK.**
+Data Study Group team — *The Alan Turing Institute*, 2019
+[Report](https://zenodo.org/records/4981184)
+:::
+
+
+---
+
+## Projects
+
+:::{.project-card}
+### QGIS Segreg
+Open source QGIS plugin for computing spatial and non-spatial segregation measures.
+
+![](images/segreg-featured.png){width=15% fig-alt="QGIS Segreg plugin"}
+
+[GitHub Repository](https://github.com/sandrofsousa/Segreg)
+:::

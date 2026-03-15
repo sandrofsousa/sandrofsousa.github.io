@@ -1,0 +1,38 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Sandro Sousa"
+  favicon: images/icon.png
+  site-url: https://sandrofsousa.github.io/
+  search: true
+  navbar:
+    pinned: true
+    background: "#8B3A1A"
+    foreground: "#FAF0E6"
+    left:
+      - text: Bio
+        href: bio.qmd
+      - text: Research
+        href: research.qmd
+      - text: Teaching
+        href: teaching.qmd
+      - text: Blog
+        href: blog/index.qmd
+      - text: Resources
+        href: resources.qmd
+    right:
+      - icon: search
+        id: quarto-search
+  page-footer:
+    left: |
+      &copy; 2026 Sandro Sousa
+    right: |
+      Built with [Quarto](https://quarto.org/)
+
+format:
+  html:
+    theme:
+      light: [flatly, styles.scss]
+    toc: true

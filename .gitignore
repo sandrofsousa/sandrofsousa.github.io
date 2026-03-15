@@ -1,0 +1,9 @@
+_site/
+.quarto/
+.DS_Store
+# pixi environments
+.pixi/*
+!.pixi/config.toml
+
+/.quarto/
+**/*.quarto_ipynb

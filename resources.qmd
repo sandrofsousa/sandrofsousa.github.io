@@ -1,0 +1,140 @@
+---
+title: "Resources"
+subtitle: "Software, books, websites, datasources, etc. (arbitrarily categorised)."
+toc: true
+---
+
+## Useful software
+
+**Network analysis**
+[Graph-tool](https://graph-tool.skewed.de/) ·
+[NetworkX](http://networkx.github.io/) ·
+[igraph](http://igraph.org) ·
+[SNAP Stanford Network Analysis Project](https://snap.stanford.edu/index.html) ·
+[OSMnx Street networks](https://github.com/gboeing/osmnx) ·
+[Hive Plots](http://www.hiveplot.com/) ·
+[NetBunch](https://github.com/KatolaZ/NetBunch)
+
+**Network analysis - no coding**
+[Cytoscape](https://cytoscape.org/) ·
+[Gephi](https://gephi.org/)
+
+**Large networks analysis**
+[Large Network Visualization Tool](http://lanet-vi.soic.indiana.edu/) ·
+[Multinet Large multi-layered graphs](https://multinets.io/) ·
+[Cosmograph Visual analytics for big graphs](https://cosmograph.app/)
+
+**Other**
+[Power-law Distributions](https://github.com/jeffalstott/powerlaw) ·
+[GNU Parallel, Shell tool for jobs in parallel](https://www.gnu.org/software/parallel/)
+
+**Tutorials**
+[Network analysis with R and igraph: NetSci Tutorial](http://kateto.net/networks-r-igraph) ·
+[Static and dynamic network visualization with R](http://kateto.net/network-visualization) ·
+[Temporal networks with R and igraph](http://estebanmoro.org/post/2015-12-21-temporal-networks-with-r-and-igraph-updated/) ·
+[Network Analysis Made Simple](https://ericmjl.github.io/Network-Analysis-Made-Simple/)
+
+
+## Visualising and representing Data
+
+**Plotting**
+[Matplotlib Parts of a Figure](https://matplotlib.org/faq/usage_faq.html) ·
+[Python_Matplotlib_Cheat_Sheet](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Python_Matplotlib_Cheat_Sheet.pdf) ·
+[Colormaps in Matplotlib](https://matplotlib.org/stable/tutorials/colors/colormaps.html) ·
+[List of named colors Matplotlib](https://matplotlib.org/stable/gallery/color/named_colors.html) ·
+[Choosing color palettes seaborn](https://seaborn.pydata.org/tutorial/color_palettes.html) ·
+[ColorBrewer Color Advice for Maps](http://colorbrewer2.org/) ·
+[Create a palette Coolors](https://coolors.co/ef767a-456990-49beaa-49dcb1-eeb868) ·
+[What to consider when choosing colors](https://blog.datawrapper.de/colors/)
+
+**Data Art**
+[Kirell Benzi](https://www.kirellbenzi.com/) ·
+[Information is Beautiful Awards](https://www.informationisbeautifulawards.com/) ·
+[Data design and storytelling Tiziana Alocci](https://www.tizianaalocci.com/)
+
+**Data viz**
+[Chartable](https://blog.datawrapper.de/) ·
+[Find the graphic you need](https://www.data-to-viz.com/index.html) ·
+[Free Logo Maker](https://logomakr.com/) ·
+[scientific-visualization-book](https://github.com/rougier/scientific-visualization-book) ·
+[Redundant coding, text annotations](https://wilkelab.org/SDS375/slides/redundant-coding.html#1) ·
+[Streamline Icon Library](https://streamlineicons.com/) ·
+[That ole Illustrator magic](https://petterhol.me/2022/04/12/that-ole-illustrator-magic/) ·
+[The Python Graph Gallery](https://python-graph-gallery.com/)
+
+## Datasources
+
+**Network**
+[Index of Complex Networks](https://icon.colorado.edu/#!/networks) ·
+[Netzschleuder the network catalogue](https://networks.skewed.de/) ·
+[Network Data Repository](http://networkrepository.com/) ·
+[KONECT The Koblenz Network Collection](http://konect.uni-koblenz.de/) ·
+[Stanford Large Network Dataset Collection](https://snap.stanford.edu/data/)
+
+**General**
+[BlackDemographics US](https://blackdemographics.com) ·
+[Colouring London](https://colouringlondon.org/) ·
+[data.europa.eu](https://data.europa.eu/en) ·
+[Datasets UBDC Data Portal](http://ubdc.gla.ac.uk/dataset) ·
+[GoodCityLife](https://goodcitylife.org/) ·
+[SoBigData.eu](http://sobigdata.eu/index) ·
+[Metroverse Harvard Growth Lab](https://metroverse.cid.harvard.edu/) ·
+[Office for National Statistics](https://www.ons.gov.uk/) ·
+[OpenAlex The open catalog to the global research system](https://openalex.org/) ·
+[QuantUrb](http://www.quanturb.com/) ·
+[DataShine Census](https://datashine.org.uk) ·
+[Our World in Data](https://ourworldindata.org/) ·
+[Humanitarian Data Exchange](https://data.humdata.org/)
+
+**Maps**
+[Overpass turbo](https://overpass-turbo.eu/) ·
+[TIGER/Line Shapefiles](https://www.census.gov/cgi-bin/geo/shapefiles/index.php) ·
+[IPUMS NHGIS · National Historical Geographic Information System](https://www.nhgis.org/) ·
+[Mapzen](https://mapzen.com/products/#data)
+
+**Transit**
+[TransitFeeds](https://transitfeeds.com/) ·
+[Transitland](https://transit.land/)
+
+
+## Free reading material
+
+**Network Science**
+[Glossary of graph theory terms](https://en.wikipedia.org/wiki/Glossary_of_graph_theory_terms) ·
+[Network Science book by A. Barabasi](http://networksciencebook.com/) ·
+[The Atlas for the Aspiring Network Scientist](https://www.networkatlas.eu/)
+
+**Complexity**
+[Complexity Explorer](https://www.complexityexplorer.org) ·
+[Think Complexity 2e](https://greenteapress.com/wp/think-complexity-2e) ·
+[Complexity Explained](https://complexityexplained.github.io/) ·
+[Complexity Digest](http://comdig.unam.mx/) ·
+[Complexity Explorables](https://www.complexity-explorables.org/)
+
+**Maths**
+[3blue1brown](https://www.3blue1brown.com/) ·
+[Encyclopedia of Mathematics](https://www.encyclopediaofmath.org/index.php/Main_Page) ·
+[Guide To The Fourier Transform](https://betterexplained.com/articles/an-interactive-guide-to-the-fourier-transform/) ·
+[List of mathematical symbols](https://en.wikipedia.org/wiki/List_of_mathematical_symbols) ·
+[Random: Probability, Mathematical Statistics, Stochastic Processes](http://www.randomservices.org/random/) ·
+[Wolfram Alpha](http://www.wolframalpha.com/) ·
+[Symbolab math solver](https://www.symbolab.com/solver/equation-calculator)
+
+
+## Other collections
+
+[Resources Amaral Lab](https://amaral.northwestern.edu/resources/)
+
+**Awesome lists**
+[awesome-network-analysis](https://github.com/briatte/awesome-network-analysis) ·
+[awesome-understanding-math](https://github.com/nbro/understanding-math) ·
+[awesome-math](https://github.com/sandrofsousa/awesome-math) ·
+[awesome-dataviz](https://github.com/sandrofsousa/awesome-dataviz) ·
+[awesome-datascience](https://github.com/academic/awesome-datascience) ·
+[awesome-computational-social-science](https://github.com/gesiscss/awesome-computational-social-science) ·
+[awesome-python](https://github.com/sandrofsousa/awesome-python) ·
+[awesome-causality](https://github.com/napsternxg/awesome-causality) ·
+[awesome-nlp](https://github.com/keon/awesome-nlp) ·
+[speech-language-processing](https://github.com/edobashira/speech-language-processing) ·
+[awesome-open-science](https://github.com/silky/awesome-open-science) ·
+[awesome-quarto](https://github.com/mcanouil/awesome-quarto)

@@ -1,0 +1,27 @@
+---
+title: "Teaching"
+toc: true
+---
+
+## Teaching
+
+I've been Lecturing on the following courses at the [MSc in Social Data Science](https://www.ku.dk/studies/masters/social-data-science):
+
+- 2025 - Elementary Social Data Science
+- 2024 - Social Data Science BaseCamp
+- 2024 - Data Collection, Processing and Analysis
+- 2023 - Advanced Social Data Science I, Social Network Analysis classes
+
+Previous Teaching
+
+- 2024 - Technical communications, Data Science program, ITU
+- 2019-2020 - Introduction to Computer Programming in Python (MTH5001), QMUL
+- 2018-2019 - Probability and Statistics I (MTH4116/MTH4216), QMUL
+
+## Supervision
+
+- 2023-Now - Multiple MSc students (40+), Co-supervisor. UCPH
+- 2023 - Camilla Veronica Branas (MSc), Principal supervisor. UCPH
+- 2023 - Anton Folkmann and Alexander Hjelmgaard (BSc.), Co-supervisor. ITU
+- 2022 - Chiara Zappalà (Visiting PhD), Co-supervisor. ITU
+- 2022 - Maria Elena Perruzza (External MSc, ISI Foundation), Co-supervisor. ITU

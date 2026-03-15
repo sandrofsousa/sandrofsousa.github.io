@@ -1,0 +1,41 @@
+---
+title: ""
+page-layout: custom
+toc: false
+---
+
+<div class="hero-section">
+<canvas id="rw-canvas" class="hero-canvas"></canvas>
+<div class="hero-content">
+
+# Sandro Sousa
+
+<div class="role">Complexity & Network Scientist</div>
+
+<div class="summary">
+Assistant Professor at the Copenhagen Center for Social Data Science
+([SODAS](https://sodas.ku.dk/)) and Associate at the Copenhagen [Health Complexity Center](https://www.healthcomplex.dk/), University of Copenhagen.
+Building data-informed models for societal issues emerging from population dynamics, with a focus on vulnerable groups, drawing methods from complexity, networks, social science, spatial analysis, and online experiments.
+</div>
+
+<div class="role">Interests:</div>
+
+<div class="interests">
+Climate-induced population dynamics · Socioeconomic inequality · Algorithms & Society · Spatial Complexity & Cities · Complex Networks · Computational Social Science
+</div>
+
+<div class="social-links">
+<a href="mailto:contact.m1ob1@simplelogin.com" title="Email"><i class="bi bi-envelope-fill"></i></a>
+<a href="https://scholar.google.com/citations?hl=en&user=38s9SVgAAAAJ" title="Google Scholar"><i class="bi bi-mortarboard-fill"></i></a>
+<!--<a href="https://orcid.org/0000-0002-6198-7393" title="ORCID"><i class="bi bi-person-badge"></i></a>-->
+<a href="https://github.com/sandrofsousa" title="GitHub"><i class="bi bi-github"></i></a>
+<a href="https://www.linkedin.com/in/sandrofsousa" title="LinkedIn"><i class="bi bi-linkedin"></i></a>
+<a href="https://bsky.app/profile/sandrofsousa.bsky.social" title="BlueSky"><i class="bi bi-bluesky"></i></a>
+<a href="https://www.strava.com/athletes/1671997" title="Strava"><i class="bi bi-strava"></i></a>
+</div>
+
+</div>
+<div class="copyright-note">&copy; 2026 Sandro Sousa</div>
+</div>
+
+<script src="random-walk.js"></script>
