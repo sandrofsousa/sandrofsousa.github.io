@@ -88,6 +88,8 @@ $headings-font-weight:   600;
   max-width: 580px;
   // fluid padding: shrinks gracefully from 3rem → 1rem as viewport narrows
   padding: clamp(1rem, 3vw, 2rem) clamp(1rem, 5vw, 3rem);
+  background: rgba(255, 248, 240, 0.92); // $off-white with slight transparency
+  border-radius: 6px;
 }
 
 .hero-content h1 {
