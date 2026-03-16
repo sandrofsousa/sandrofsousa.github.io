@@ -7,7 +7,7 @@
   if (window.matchMedia("(prefers-reduced-motion: reduce)").matches) return;
 
   const ctx = canvas.getContext("2d");
-  const GRID = 20;
+  const GRID = 40;
   const TRAIL = 170;
   const INTERVAL = 90;
   const COLORS = [
@@ -65,15 +65,21 @@
   function draw() {
     ctx.clearRect(0, 0, canvas.width, canvas.height);
 
-    // Grid dots
-    ctx.fillStyle = "rgba(139, 58, 26, 0.04)";
-    for (var c = 0; c < cols; c++) {
-      for (var r = 0; r < rows; r++) {
-        ctx.beginPath();
-        ctx.arc(c * GRID + GRID / 2, r * GRID + GRID / 2, 1, 0, Math.PI * 2);
-        ctx.fill();
-      }
+    // Grid lines
+    ctx.strokeStyle = "rgba(139, 58, 26, 0.07)";
+    ctx.lineWidth = 0.5;
+    ctx.beginPath();
+    for (var c = 0; c <= cols; c++) {
+      var x = c * GRID;
+      ctx.moveTo(x, 0);
+      ctx.lineTo(x, canvas.height);
     }
+    for (var r = 0; r <= rows; r++) {
+      var y = r * GRID;
+      ctx.moveTo(0, y);
+      ctx.lineTo(canvas.width, y);
+    }
+    ctx.stroke();
 
     // Walkers
     for (var w of walkers) {
