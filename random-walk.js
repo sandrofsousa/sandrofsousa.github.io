@@ -9,7 +9,7 @@
   const ctx = canvas.getContext("2d");
   const GRID = 40;
   const TRAIL = 170;
-  const INTERVAL = 90;
+  const INTERVAL = 160;
   const COLORS = [
     [139, 58, 26], // rust
     [181, 101, 29], // light rust
@@ -65,17 +65,17 @@
   function draw() {
     ctx.clearRect(0, 0, canvas.width, canvas.height);
 
-    // Grid lines
+    // Grid lines — aligned with walker positions (cell centres)
     ctx.strokeStyle = "rgba(139, 58, 26, 0.07)";
     ctx.lineWidth = 0.5;
     ctx.beginPath();
-    for (var c = 0; c <= cols; c++) {
-      var x = c * GRID;
+    for (var c = 0; c < cols; c++) {
+      var x = c * GRID + GRID / 2;
       ctx.moveTo(x, 0);
       ctx.lineTo(x, canvas.height);
     }
-    for (var r = 0; r <= rows; r++) {
-      var y = r * GRID;
+    for (var r = 0; r < rows; r++) {
+      var y = r * GRID + GRID / 2;
       ctx.moveTo(0, y);
       ctx.lineTo(canvas.width, y);
     }

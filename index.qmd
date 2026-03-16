@@ -34,8 +34,8 @@ Climate-induced population dynamics · Socioeconomic inequality · Algorithms & 
 <a href="https://www.strava.com/athletes/1671997" title="Strava"><i class="bi bi-strava"></i></a>
 </div>
 
-</div>
+<!--</div>
 <div class="copyright-note">&copy; 2026 Sandro Sousa</div>
-</div>
+</div>-->
 
 <script src="random-walk.js"></script>
